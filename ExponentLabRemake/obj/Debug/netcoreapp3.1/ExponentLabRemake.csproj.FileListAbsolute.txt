@@ -1,0 +1,14 @@
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\bin\Debug\netcoreapp3.1\ExponentLabRemake.exe
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\bin\Debug\netcoreapp3.1\ExponentLabRemake.deps.json
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\bin\Debug\netcoreapp3.1\ExponentLabRemake.runtimeconfig.json
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\bin\Debug\netcoreapp3.1\ExponentLabRemake.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\bin\Debug\netcoreapp3.1\ExponentLabRemake.dll
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\bin\Debug\netcoreapp3.1\ExponentLabRemake.pdb
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.csproj.AssemblyReference.cache
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.dll
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.pdb
+C:\Users\areddy1\source\repos\ExponentLabRemake\ExponentLabRemake\obj\Debug\netcoreapp3.1\ExponentLabRemake.genruntimeconfig.cache
